@@ -12,14 +12,7 @@ To avoid signing up, you may log in with the following credentials:
 ```
 Feel free to play around and submit an issue should you find any.
 
-
-## Screenshots
-
-![Home Page](https://i.imgur.com/4itp9b7l.png)
-![Calendar view](https://i.imgur.com/JBcxCOtl.png)
-![Pet Dashboard](https://i.imgur.com/UhVx5tPl.png)
-![Add tasks](https://i.imgur.com/j4AB1z3l.png)
-
+![myPetPal](https://user-images.githubusercontent.com/101529105/195211240-62d93c29-afcc-44b8-a8a9-a1f5a808680b.png)
 
 ## Tech Stack
 
